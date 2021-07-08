@@ -173,10 +173,53 @@ width: 50%;
     
 }
 
-.fourth_section p{
-   
-   
+/* Section five */
+.section_five{
+    width: 62%;
+    /* border: 1px red dashed; */
+    display: flex;
+    margin: 0px auto;
+    box-shadow: 5px 5px 10px gray, -5px -5px 10px gray;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    padding: 50px;
 }
 
+.sec_five_1{
+    margin-left: 60px;
+}
+
+.sec_five_2 {
+    margin-left: 140px;
+}
+.sec_five_3{
+    margin-left: 130px;
+}
+
+.sec_five_1 h1 , .sec_five_2 h1, .sec_five_3 h1{
+    margin-bottom: 10px;
+}
+
+/* section six */
+
+.section_six{
+    width:80%;
+    padding: 50px;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.section_six h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: gray;
+    font-weight: 400;
+}
+
+.section_six p{
+    text-align: center;
+}
 
 
